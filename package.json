@@ -1,0 +1,25 @@
+{
+    "name": "mpc-hc-website",
+    "version": "0.1.0",
+    "readme": "Readme.md",
+    "author": {
+        "name": "MPC-HC Team",
+        "url": "https://github.com/mpc-hc/website"
+    },
+
+    "description": "The dependencies to build MPC-HC's website",
+    "homepage": "https://github.com/mpc-hc/website",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mpc-hc/website.git"
+    },
+
+    "dependencies": {
+        "clean-css": ">=0.8.1",
+        "uglify-js": ">=1.3.4"
+    },
+
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
