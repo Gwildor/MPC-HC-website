@@ -54,6 +54,11 @@ website:
 		 $(SRC)/_static/css/style.css					\
 		 | cleancss --s0 -o $(BLDDIR_WEB)/_static/css/pack.css
 
+	@echo ; echo "Bundling css files..."
+	@enhancecss $(BLDDIR_WEB)/_static/css/pack.css		\
+		 -o $(BLDDIR_WEB)/_static/css/bundled.css		\
+		 --root $(BLDDIR_WEB)/_static/css/
+
 	@echo ; echo "Combining js files..."
 	@cat $(SRC)/_static/js/bootstrap.js					\
 		 $(SRC)/_static/js/jquery.mousewheel.js			\

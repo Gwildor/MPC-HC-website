@@ -10,6 +10,7 @@ Getting started
 * Install Sphinx: `easy_install -U Sphinx`
 * Install [node.js](http://nodejs.org/download/)
 * Install [clean-css](https://github.com/GoalSmashers/clean-css) by running: `npm install -g clean-css`
+* Install [enhance-css](https://github.com/GoalSmashers/enhance-css) by running: `npm install -g enhance-css`
 * Install [uglify-js](https://github.com/mishoo/UglifyJS) by running: `npm install -g uglify-js`
 * Run `make` or `make website` to build the static site
 * Run the Python webserver to test your changes: `make server`
