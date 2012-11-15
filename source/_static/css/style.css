@@ -8,6 +8,7 @@ body {
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
     max-width: 940px;
+    font-size: 13px;
 }
 
 #content-container {
