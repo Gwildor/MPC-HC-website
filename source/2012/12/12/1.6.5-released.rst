@@ -1,0 +1,16 @@
+.. raw:: html
+
+	<div class="full-news">
+
+v1.6.5 is released
+------------------
+
+Posted by XhmikosR on 12/12/2012
+
+** TO BE FILLED **
+
+Highlights of this release:
+
+** TO BE FILLED **
+
+You can download the new version :doc:`here </downloads>`. For the complete changes see the :doc:`changelog </changelog>`.
